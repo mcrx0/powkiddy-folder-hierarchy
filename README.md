@@ -60,10 +60,10 @@ It's an simple array nested on an object, that' contains info about ROMs install
 {
     "list": [
         {
-            "soupin": "BioHazard 3",
+            "soupin": "Biohazard 3",
             "child": false,
-            "title": "BioHazard 3",
-            "url": "/mnt/card/game/ps/BioHazard 3/BioHazard 3.img"
+            "title": "Biohazard 3",
+            "url": "/mnt/card/game/ps/Biohazard 3/Biohazard 3.img"
         },
         { ... },
     ]
